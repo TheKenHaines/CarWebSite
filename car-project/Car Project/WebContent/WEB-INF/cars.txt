@@ -1,0 +1,10 @@
+Honda;Accord;2019;Black;12443.0;17500.0;1GDGG31V141981067;https://www.autotrader.com/wp-content/uploads/2020/02/2019-Honda-Accord-Hybrid-.1..jpg;The Always Great Accord;03/05/2020;false
+Lamborghini;Huracan;2020;Yellow;129.0;126450.0;SCBLF34F32CX08680;https://www.motortrend.com/uploads/sites/5/2020/01/Lamborghini-Huracan-Evo-RWD-front-three-quarters.jpg;Just Don't Ask About the Price;08/05/2020;true
+Toyota;Camry;2020;Red;189.0;32450.0;1GTV2UEC9FZ100502;https://media.ed.edmunds-media.com/toyota/camry/2020/oem/2020_toyota_camry_sedan_trd_fq_oem_8_1600.jpg;Not Your Father's Camry;08/05/2020;true
+Ford;F-150;2020;Black;282.0;32000.0;2T1BURHE4EC176922;https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2021-ford-f-150-rendering-1586190703.jpg;Truck It!;08/05/2020;true
+Nissan;Altima;2020;Red;129.0;31543.0;2C4RDGBG3CR249417;https://cnet1.cbsistatic.com/img/bfavKquI-a45T3Qs2fjkca9SJNs=/940x0/2018/12/31/b95656bb-2762-45c7-b53a-c95800f63d0d/2019-nissan-altima-platinum-68.jpg;For the Ladies;08/05/2020;true
+Jeep;Wrangler;2019;Red;12443.0;23433.0;1GC1KUEG4FF545877;https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTPPpb1nE8LURq1rqM47rZH_ohkWw50tU4CzA&usqp=CAU;Who Doesn't Love Adventure?;12/28/2019;false
+Honda;Civic Type R;2020;Black;223.0;29044.0;5UXWX5C57CL718706;https://cdn.motor1.com/images/mgl/2Mz9x/s1/2020-honda-civic-type-r-sport-line.jpg;Don't Just Be Civil, Be Civic;08/05/2020;true
+Ford;Focus;2020;Blue;221.0;23469.0;1FAFP24125G144559;https://cdn.motor1.com/images/mgl/XPgx9/s3/custom-2017-ford-focus-rs-dream-giveaway.jpg;Focus On the Awesome;08/05/2020;true
+Volkswagen;Beetle;2020;Burnt Orange;243.0;32234.0;2G4GR5GX0E9205136;https://cars2021.com/wp-content/uploads/2018/10/Beetle-2021-2-770x430-1280x720.jpg;Get Someone Punched!;08/05/2020;true
+Chevy;Malibu;2020;White;224.0;35603.0;WBABN33403PG61775;https://i.ytimg.com/vi/QVU1QGo9pog/maxresdefault.jpg;Its Like Being In Florida;08/05/2020;true
